@@ -1,0 +1,22 @@
+*{
+    background-color:rgb(255, 255, 255) ;
+}
+
+
+.donacion{
+    width: 400px;
+    height: auto;
+}
+
+
+.Agradecimiento{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
+.Contenedor img {
+    display: block;
+    margin: auto;
+}
